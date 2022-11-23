@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Recycle-Card-Image-Viev-Adapter-Glide" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Recycler-Card-Image-Viev-Adapter-Glide1" vcs="Git" />
   </component>
 </project>
