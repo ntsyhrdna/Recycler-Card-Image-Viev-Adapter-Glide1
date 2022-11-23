@@ -23,7 +23,7 @@
             android:layout_height="wrap_content"
             android:text="Nama Pahlawan"
             android:padding="6dp"
-            style="@style/TextAppearance.AppCompat.Large"
+            style="@style/TextAppearance.AppCompat.Large"/>
 
             <TextView
                 android:id="@+id/tv_tentang"
@@ -32,7 +32,7 @@
                 android:text="Tentang Pahlawan"
                 android:padding="6dp"
                 android:justificationMode="inter_word"
-                style="@style/TextAppearance.AppCompat.Medium"
+                style="@style/TextAppearance.AppCompat.Medium"/>
 
 
 
